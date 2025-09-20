@@ -37,7 +37,7 @@ I'm Haley Thomas — a psychology graduate turned cybersecurity professional wit
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/) *(Add your link here)*
+- [LinkedIn](https://www.linkedin.com/) www.linkedin.com/in/haley-thomas1
 - [GitHub Profile](https://github.com/haleycyber)
 
 ---
