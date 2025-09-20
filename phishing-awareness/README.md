@@ -1,3 +1,4 @@
+# Phishing Awareness Campaign
 This project simulates a **phishing awareness training module** designed for non-technical staff in education and healthcare environments.
 
 It includes:
